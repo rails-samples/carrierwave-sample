@@ -1,0 +1,1 @@
+curl --data "project[name]=我的项目&project[user_id]=2" http://localhost:3000/api/v1/projects
